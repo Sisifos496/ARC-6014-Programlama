@@ -622,7 +622,7 @@ public class Main {
         }
         /*
             This code first calculates the remained weight to the limit if the total weight is over the limit. Next with the help of a method that I created
-            and designing them according to my needs. Then, I iterated through the list returned by the method and get the key.
+            and designed them according to my needs. Then, I iterated through the list returned by the method and get the key.
             Then I looped through weighMap and take the values that are matching with the keys of the list that came from method and add the values next to them
             I wrote this method, but I guess I misunderstood because this code assumes that to reach under the limit we need to remove all the weight the material weighs.
             But, I wanted to keep it here
